@@ -1,1 +1,3 @@
 # Blinky-Boardd
+
+The Blinky Board is a small and beginner-friendly electronics project that uses 10 LEDs along with a few basic components to create a simple blinking sequence. It’s designed to help understand how circuits work in a practical way. The schematic diagram acts like a guide, showing how each LED is connected with resistors, the power supply, and the control unit so everything works safely and correctly. This design is then turned into a PCB layout, where all the parts are arranged and connected using copper traces. After the board is made, the components are soldered onto it and tested to make sure the LEDs blink as expected. Overall, it’s a great hands-on project for learning the basics of schematics, PCB design, and electronics assembly.
